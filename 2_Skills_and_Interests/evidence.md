@@ -1,5 +1,8 @@
 # Skills and Interests - Evidence
 
+![03_skills_and_interests](https://github.com/user-attachments/assets/e6a62b92-e3ea-4567-9e1f-cef3c97c6ecb)
+
+
 This module helped me explore my core skills and match them with jobs in the ICT industry.
 
 **Key Activities:**
